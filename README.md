@@ -10,12 +10,12 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/VoltageLord/MAYOR_V1_BUG_BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Voltage_V1_BUG_BOT" width="70"></a>
+### 1. <a href="https://github.com/Mayor/MAYOR_V1_BUG_BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork MAYOR BUG BOT" width="70"></a>
  
 
 
 ### 2.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/MayorLord/Mayor_V1_BUG_BOT) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [MAYOR BUG BOT V1](https://github.com/MayorLord/Mayor_V1_BUG_BOT) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -38,10 +38,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Voltage_V1_BUG_BOT 
+git clone https://github.com/type-your-username-here/MAYOR_V1_BUG_BOT 
 ```
 ```
-cd Voltage_V1_BUG_BOT 
+cd Mayor_V1_BUG_BOT 
 yarn install 
 npm start
 ```
@@ -77,10 +77,10 @@ termux-setup-storage
 ```
 
 ```
-git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT
+git clone https://github.com/Mayor/MAYOR_V1_BUG_BOT
 ```
 ```
- cd Voltage_V1_BUG_BOT
+ cd MAYOR_V1_BUG_BOT
 ```
 ```
 yarn install
@@ -98,7 +98,7 @@ npm start
  <br> 
 <p align="center">
 <a href="https://wa.me/2349155298855"><img src="https://img.shields.io/badge/Contact Voltage⚡Lord-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@Voltagetechpro"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Voltagetechpro" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
