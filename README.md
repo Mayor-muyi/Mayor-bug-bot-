@@ -1,21 +1,21 @@
-### Voltage_V1_BUG_BOT 
+### MAYOR BOT V1
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg"/> 
 <p align="center">
   <a href="https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg"><img
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Voltage+V1+BUG+-BOT_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+VOLTAGE⚡+LORD;REALESE+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Voltage+V1+BUG+-BOT_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+MÀYOR;REALESE+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/VoltageLord/Voltage_V1_BUG_BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Voltage_V1_BUG_BOT" width="70"></a>
+### 1. <a href="https://github.com/VoltageLord/MAYOR_V1_BUG_BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Voltage_V1_BUG_BOT" width="70"></a>
  
 
 
 ### 2.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/VoltageLord/Voltage_V1_BUG_BOT) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/MayorLord/Mayor_V1_BUG_BOT) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
